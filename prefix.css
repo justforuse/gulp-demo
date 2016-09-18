@@ -1,0 +1,10 @@
+div{
+	width:200px;
+	height:300px;
+	border:1px solid red;
+	margin-top:30px;
+	margin-left:40px;
+	box-shadow:3px 3px 5px black;
+	box-sizing:border-box;
+	transform:rotate(45deg);
+}
